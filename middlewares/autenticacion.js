@@ -55,9 +55,9 @@ exports.verificaADMIN_ROLE = function(req, res, next) {
 }
 
 
-// ==========================================
+// ===========================================
 //  Verificar ADMIN o Mismo Usuario
-// ==========================================
+// ===========================================
 exports.verificaADMIN_o_MismoUsuario = function(req, res, next) {
 
 
